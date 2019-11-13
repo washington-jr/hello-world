@@ -1,5 +1,5 @@
 # hello-world
-Olá, eu me chamo Washington e tenho 27 anos considero-me um aspirante no mundo de desenvolvimento de software, meu primeiro contato com
+Olá, eu me chamo Washington e tenho 27 anos, considero-me um aspirante no mundo de desenvolvimento de software, meu primeiro contato com
 linguagens de programação foi a mais ou menos 6 anos atrás quando estudei Java, SqlServer, POO, Lógica de Prgramação na Impacta Tecnologias, em seguida iniciei um 
 curso de Programações para Jogos Digitais na IBTA - Instituto Brasileiro de Tecnologia Avançada, porém devido a alguns problemas pessais
 não consegui finalizar o curso de Jogos Digitais. 
